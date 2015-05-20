@@ -28,7 +28,7 @@ permalink: /
         <ul class="tags">
             <li class="filter-item culture"><a href="#">SLA</a></li>
             <li class="filter-item culture"><a href="#">Scenario</a></li>
-            <li class="filter-item culture"><a href="{{task.url}}" target="_blank">Full description</a></li>
+            <li class="filter-item culture"><a href="{{task.url}}" target="_blank">Full Details</a></li>
         </ul>
         </span>
         <button class="toggle" title="Read more"><span>Read more</span></button>
@@ -55,7 +55,7 @@ permalink: /
       <ul class="tags">
           <li class="filter-item culture"><a href="#">SLA</a></li>
           <li class="filter-item culture"><a href="#">Scenario</a></li>
-          <li class="filter-item culture"><a href="{{task.url}}" target="_blank">Full description</a></li>
+          <li class="filter-item culture"><a href="{{task.url}}" target="_blank">Full Details</a></li>
       </ul>
       </span>
       <button class="toggle" title="Read more"><span>Read more</span></button>

@@ -1,4 +1,4 @@
-# Contributing to the Digital Services Contract Cookbook
+# Contributing to this project
 
 First off there are some ground rules:
 
