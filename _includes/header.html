@@ -1,5 +1,10 @@
 <header class="site-header">
 
+    <div class="site-stage">
+        This site is in <a href="https://18f.gsa.gov/dashboard/stages/" target="_blank">{{ site.stage }}</a>. The content contained is not final.
+    </div>
+
+<!--
   <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
@@ -14,14 +19,18 @@
       </a>
 
       <div class="trigger">
+
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+
       </div>
     </nav>
 
   </div>
+
+-->
 
 </header>
