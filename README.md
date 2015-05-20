@@ -1,11 +1,11 @@
 # Digital Service Contract Cookbook
-The goal of the "Digital Services Contract Cookbook" is to provide an easy mechanism for digital service teams within the United States Federal government to create contracting language for procuring digital services.
+The goal of the [Digital Services Contract Cookbook](http://nmudd-cms.github.io/digital-service-contracting-cookbook/) is to provide an easy mechanism for digital service teams within the United States Federal government to create contracting language for procuring digital services that embrace the [USDS Playbook](https://playbook.cio.gov/).
 
 Additionally, the tasks defined in this project will evolve and mature using the same methods the open source development community use to build software.
 
-All tasks are defined in the _tasks folder. See our [contributing guide] (/CONTRIBUTING.md) if your interested in helping out.
+All tasks are defined in the `_tasks` folder. See our [contributing guide] (/CONTRIBUTING.md) if your interested in helping out.
 
-[Try it out.] (http://nmudd-cms.github.io/digital-service-contracting-cookbook/).
+[Try it out the Digitial Service Contract Cookbook.] (http://nmudd-cms.github.io/digital-service-contracting-cookbook/).
 
 ## TODOs
 - [x] Add UI for sticky menu with print, export, back to top and reset
