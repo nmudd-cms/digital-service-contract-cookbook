@@ -1,11 +1,11 @@
 # Digital Service Contract Cookbook
-The goal of the [Digital Services Contract Cookbook](http://nmudd-cms.github.io/digital-service-contracting-cookbook/) is to provide an easy mechanism for digital service teams within the United States Federal government to create contracting language for procuring digital services that embrace the [USDS Playbook](https://playbook.cio.gov/).
+The goal of the [Digital Services Contract Cookbook](http://nmudd-cms.github.io/digital-service-contracting-cookbook/) is to provide an easy mechanism for digital service teams within the U.S. Federal Government to create contracting language for procuring digital services that embrace the [USDS Playbook](https://playbook.cio.gov/).
 
-Additionally, the tasks defined in this project will evolve and mature using the same methods the open source development community use to build software.
+All contract tasks are defined in the `_tasks` folder. See our [contributing guide] (/CONTRIBUTING.md) if your interested in helping out.
 
-All tasks are defined in the `_tasks` folder. See our [contributing guide] (/CONTRIBUTING.md) if your interested in helping out.
+To read more about the motivation behind this project. Take a look at the [product charter](#).
 
-[Try it out the Digitial Service Contract Cookbook.] (http://nmudd-cms.github.io/digital-service-contracting-cookbook/).
+[Try out the Digitial Service Contract Cookbook.] (http://nmudd-cms.github.io/digital-service-contracting-cookbook/).
 
 ## TODOs
 - [x] Add UI for sticky menu with print, export, back to top and reset
@@ -15,7 +15,8 @@ All tasks are defined in the `_tasks` folder. See our [contributing guide] (/CON
 - [x] Add print.css that only shows checked tasks
 - [x] Add objective section for print version
 - [x] Fix reset functionality
-- [ ] Add Contributing instructions.
+- [x] Add Contributing Guide.
+- [ ] Add Product Charter
 - [ ] Finish the Credit, Inspiration, Resources section of this README.md.
 - [ ] Add navigation to jump to section or filter
 - [ ] Create better UX for SLAs, Scenarios, full description (model or separate page perhaps)
@@ -24,6 +25,6 @@ All tasks are defined in the `_tasks` folder. See our [contributing guide] (/CON
 
 ## Credit, Inspiration, Resources
 
-* USDS Playbook
-* DevopsChecklist
-* 18F
+* [USDS Playbook](https://playbook.cio.gov/)
+* [18F](https://18f.gsa.gov/dashboard/)
+* [DevopsChecklist](http://devopschecklist.com/)
