@@ -17,10 +17,10 @@ To read more about the motivation behind this project. Take a look at the [produ
 - [x] Fix reset functionality
 - [x] Add Contributing Guide.
 - [ ] Add Product Charter
+- [ ] Create UX for Subtasks
 - [ ] Finish the Credit, Inspiration, Resources section of this README.md.
 - [ ] Add navigation to jump to section or filter
 - [ ] Create better UX for SLAs, Scenarios, full description (model or separate page perhaps)
-- [ ] Create UX for Subtasks
 - [ ] Create a solution for generating doc, google doc, pdf, etc...
 
 ## Credit, Inspiration, Resources
