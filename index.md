@@ -26,8 +26,6 @@ permalink: /
         {{ task.title }}
         <span class="more">{{task.blurb}}
         <ul class="tags">
-            <li class="filter-item culture"><a href="#">SLA</a></li>
-            <li class="filter-item culture"><a href="#">Scenario</a></li>
             <li class="filter-item culture"><a href="{{ site.baseurl }}{{ task.url l}}" target="_blank">Full Details</a></li>
         </ul>
         </span>
@@ -53,8 +51,6 @@ permalink: /
       {{ task.title }}
       <span class="more">{{task.blurb}}
       <ul class="tags">
-          <li class="filter-item culture"><a href="#">SLA</a></li>
-          <li class="filter-item culture"><a href="#">Scenario</a></li>
           <li class="filter-item culture"><a href="{{ site.baseurl }}{{ task.url l}}" target="_blank">Full Details</a></li>
       </ul>
       </span>
