@@ -309,6 +309,12 @@
  */
 
 .task-content {
+  h2 {
+    margin: 20px 0 5px 0;
+  }
+}
+
+.task-content {
   h3 {
     margin: 20px 0 5px 0;
   }
@@ -343,8 +349,6 @@
     display: block;
     font-size: 24px;
 }
-
-
 
 /**
  * Posts
