@@ -26,7 +26,7 @@ permalink: /
         {{ task.title }}
         <span class="more">{{task.blurb}}
         <ul class="tags">
-            <li class="filter-item culture"><a href="{{ site.baseurl }}{{ task.url l}}" target="_blank">Full Details</a></li>
+            <li class="filter-item culture"><a href="{{ site.baseurl }}{{ task.url l}}" target="_blank">Read task details</a></li>
         </ul>
         </span>
         <button class="toggle" title="Read more"><span>Read more</span></button>
@@ -51,7 +51,7 @@ permalink: /
       {{ task.title }}
       <span class="more">{{task.blurb}}
       <ul class="tags">
-          <li class="filter-item culture"><a href="{{ site.baseurl }}{{ task.url l}}" target="_blank">Full Details</a></li>
+          <li class="filter-item culture"><a href="{{ site.baseurl }}{{ task.url l}}" target="_blank">Read task details</a></li>
       </ul>
       </span>
       <button class="toggle" title="Read more"><span>Read more</span></button>
