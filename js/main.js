@@ -50,7 +50,7 @@ $(".toc li a").click(function(){
 });
 
 /**
- *  @todo what does this do?
+ *  @todo need to refactor this to work with the recipes
  */
 $(document).ready(function() {
   $('.toc li a').click(function() {

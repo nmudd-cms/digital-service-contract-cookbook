@@ -41,6 +41,56 @@
     }
 }
 
+/********** FILTER **********/
+
+.toc h2 {
+  margin:0;
+  padding: 0;
+  text-align: center;
+}
+
+.toc {
+    font-size: .8em;
+    margin: 20px 0 0 0px;
+    padding: 10px;
+    list-style: none;
+    text-align: center;
+    border:solid 1px #EFEFEF;
+}
+
+.toc li, .toc .title {
+    margin: 10px auto;
+    padding: 0;
+    display: inline-block;
+    text-align: center;
+}
+
+.toc li a, .toc .title {
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    color: #8a8a8a;
+    overflow: inherit !important;
+}
+
+.toc .title {
+    padding: 0 12px;
+    display: inline !important;
+}
+
+.toc li a:hover {
+    text-decoration: underline;
+    background: none;
+}
+
+.toc .active a {
+    font-weight: bold;
+}
+
+.toc .title {
+    color: #3e3e3e;
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
@@ -354,7 +404,7 @@
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 0px;
 }
 
 .post-title {
@@ -611,4 +661,9 @@ input[type=checkbox].checkbox:checked + label.label {
 .read-less {
   background-image: url(../img/chevron-up.svg) !important;
   background-size: 22px 13px;
+}
+
+#filter-message {
+    background: #b5e2fa;
+    color: #4f9cbe;
 }

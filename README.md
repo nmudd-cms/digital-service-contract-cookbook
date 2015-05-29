@@ -15,12 +15,13 @@ To read more about the motivation behind this project. Take a look at the [produ
 - [x] Add print.css that only shows checked tasks
 - [x] Add objective section for print version
 - [x] Fix reset functionality
-- [x] Add Contributing Guide.
+- [x] Add Contributing Guide
+- [x] Create style for Sub-tasks
+- [x] Add recipe filter UI
+- [ ] Add recipe logic
 - [ ] Add Product Charter
-- [ ] Create UX for Subtasks
 - [ ] Finish the Credit, Inspiration, Resources section of this README.md.
-- [ ] Add navigation to jump to section or filter
-- [ ] Create better UX for SLAs, Scenarios, full description (model or separate page perhaps)
+- [ ] Create better UX for SLAs, Scenarios, task details (model or separate page perhaps)
 - [ ] Create a solution for generating doc, google doc, pdf, etc...
 
 ## Credit, Inspiration, Resources
