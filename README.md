@@ -5,7 +5,7 @@ All contract tasks are defined in the `_tasks` folder. See our [contributing gui
 
 To read more about the motivation behind this project. Take a look at the [product charter](#).
 
-[Try out the Digitial Service Contract Cookbook.] (http://nmudd-cms.github.io/digital-service-contracting-cookbook/).
+[Try out the Digitial Service Contract Cookbook.] (http://nmudd-cms.github.io/digital-service-contract-cookbook/).
 
 ## TODOs
 - [x] Add UI for sticky menu with print, export, back to top and reset
